@@ -1,0 +1,25 @@
+html, body {
+background-color: black;
+}
+
+canvas {
+
+	float:left;
+}
+
+h1, p {
+	color: #008F11;
+	font-family:"courier new";
+}
+
+h1 {
+	font-size: 55px;
+	height: 160px;
+	text-align: center;
+}
+
+p {
+	font-size: 25px;
+}
+
+input {}
